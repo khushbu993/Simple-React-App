@@ -1,0 +1,17 @@
+.club{
+    float:left;
+    display: flex;
+    margin-left: 5px;
+    padding: 5px;
+}
+.club-Players{
+    border: 1px solid red;
+    width: 150px;
+    height: 230px;
+    padding: 15px;
+    border-radius: 5px;
+}
+.club-Players img{
+    width: 120px;
+    height: 130px;
+}
